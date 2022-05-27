@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4b490a0-b0a1-4439-8e12-afce3e341145": {
+      "ProjectGuid": "f4b490a0-b0a1-4439-8e12-afce3e341145",
+      "DisplayName": "DaysOfTheWeek",
+      "ColorIndex": 0
+    },
+    "50189a53-2779-45d5-af9f-11dd2f2cd08a": {
+      "ProjectGuid": "50189a53-2779-45d5-af9f-11dd2f2cd08a",
+      "DisplayName": "MultiplicationTable",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

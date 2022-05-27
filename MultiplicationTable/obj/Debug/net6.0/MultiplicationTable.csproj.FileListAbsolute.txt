@@ -1,0 +1,15 @@
+D:\Fork\DaysOfTheWeek\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.exe
+D:\Fork\DaysOfTheWeek\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.deps.json
+D:\Fork\DaysOfTheWeek\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.runtimeconfig.json
+D:\Fork\DaysOfTheWeek\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.dll
+D:\Fork\DaysOfTheWeek\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.pdb
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.csproj.AssemblyReference.cache
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfoInputs.cache
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfo.cs
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.dll
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\refint\MultiplicationTable.dll
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.pdb
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.genruntimeconfig.cache
+D:\Fork\DaysOfTheWeek\MultiplicationTable\obj\Debug\net6.0\ref\MultiplicationTable.dll

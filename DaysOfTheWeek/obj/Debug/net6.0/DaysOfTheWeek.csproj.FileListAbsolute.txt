@@ -1,0 +1,15 @@
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\net6.0\DaysOfTheWeek.exe
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\net6.0\DaysOfTheWeek.deps.json
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\net6.0\DaysOfTheWeek.runtimeconfig.json
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\net6.0\DaysOfTheWeek.dll
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\net6.0\DaysOfTheWeek.pdb
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\DaysOfTheWeek.csproj.AssemblyReference.cache
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\DaysOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\DaysOfTheWeek.AssemblyInfoInputs.cache
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\DaysOfTheWeek.AssemblyInfo.cs
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\DaysOfTheWeek.dll
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\DaysOfTheWeek.pdb
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\DaysOfTheWeek.genruntimeconfig.cache
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\net6.0\ref\DaysOfTheWeek.dll
+D:\Fork\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\net6.0\ref\DaysOfTheWeek.dll
